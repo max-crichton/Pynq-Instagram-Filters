@@ -1,7 +1,4 @@
 # Pynq-Instagram-Filters
-## Tasks to do
-- [ ] Get filters to work on a jupiter notebook
-- [ ] Create more filter designs and create bit and tlc files for each
-- [ ] Create code to do the same functionality as the filters but on the PS
-- [ ] Compare timings of PL and PS based designs
-- [ ] Look into stickers/user input for weightings/cropping...
+This repository contains an image processing  project for use on the Xilinx PYNQ framework. Two notebooks are included, one based on the PS and the other on the PL. This latter one was developed by David Northcote.
+The SoC used was the Xilinx Zynq-Z2.
+System Generator 2018.3 and Matlab R2018.a recommended for sysgen files
